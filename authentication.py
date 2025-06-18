@@ -1,1 +1,1 @@
-print("authenticating for android")
+print("authenticating for ios")
